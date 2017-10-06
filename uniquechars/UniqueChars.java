@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class UniqueChars {
     public static void main(String[] args) {
         // Create a function called `uniqueCharacters` that takes a string as parameter
@@ -7,4 +10,6 @@ public class UniqueChars {
         // Should print out:
         // ["n", "g", "r", "m"]
     }
+
+    public static String uniqueCharacters(ArrayList <String> s)
 }
