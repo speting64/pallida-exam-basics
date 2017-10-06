@@ -32,9 +32,9 @@ The application is accepted if:
 
 ###  What is the difference between a function and a method? [2p]
 #### Your answer:
-Function - Piece of a code, called by a name associated with an object
-Method- A function that belongs to a class
+Function - Piece of a code, called by a name associated with an object. A function only executes code and return a value
+Method- A function that belongs to a class. It is called by a reference variable, an can only be implemented in OOP languages
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
-Constructor in Java is a special metohd which is created to initialize an object. Two types are known : Default (which as no parameters) , and parameterized constructor
+Constructor in Java is a special method which is created to initialize an object. Two types are known : Default (which as no parameters) , and parameterized constructor. The main purpose of a constructors : 1. A way to instantiate an object, 2 . Provide an initial value for defining the properties of an object. 2. Controlling the methods to create an object. It can be a private constructor ,meaning that no one else is allowed to create an instance , only the class.
